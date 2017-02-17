@@ -16,7 +16,7 @@ public class GameManager : MonoBehaviour {
         GameEnding,//animations play after the game ends and before the results screen shows
         GameEnded
     }
-    GameState gameState = GameState.OutOfGame;
+    public GameState gameState = GameState.OutOfGame;
 
     //// Use this for initialization
     //void Start () {
