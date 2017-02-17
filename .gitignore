@@ -1,3 +1,10 @@
+#Project Folders
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -45,3 +52,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.csproj
+*.sln
+.vs/Stoned/v14/.suo
+.vs/Stoned/v14/.suo
+Assets/UnityTestTools.meta
+Assets/Sounds/ForceTeleport.mp3
+Assets/Sounds/forceteleport_data.meta
+Assets/VoxelBusters.meta
+Assets/Easy Save 2.meta
